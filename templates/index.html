@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Neural Style Transfer</title>
+</head>
+<body>
+    <h1>Upload Content and Style Images</h1>
+    <form action="/transfer" method="post" enctype="multipart/form-data">
+        <label>Content Image:</label><br>
+        <input type="file" name="content" accept="image/*" required><br><br>
+        <label>Style Image:</label><br>
+        <input type="file" name="style" accept="image/*" required><br><br>
+        <button type="submit">Transfer Style</button>
+    </form>
+</body>
+</html>
