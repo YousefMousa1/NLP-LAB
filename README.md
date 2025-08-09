@@ -33,20 +33,6 @@ This repository brings together:
 
 ---
 
-## 🛠 Tech & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-4EABE1?style=flat-square&logoColor=white">
-</p>
-
----
-
 ## 🚀 Future Plans
 - Extend ToM experiments with new prompt engineering techniques
 - Explore multi-turn conversational reasoning benchmarks
